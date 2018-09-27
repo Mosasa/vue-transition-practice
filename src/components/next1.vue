@@ -10,6 +10,9 @@ export default {
 </script>
 <style>
 .next1 {
-    background: green;
+    width: 100%;
+    height: 650px;
+    position: absolute;
+    background: #00eeff;
 }
 </style>

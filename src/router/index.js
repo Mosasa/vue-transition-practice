@@ -17,5 +17,8 @@ export default new Router({
       name: 'Next1',
       component: Next1
     }
-  ]
+  ],
+  // scrollBehavior (to, from, savedPosition) {
+  //   return { x: 0, y: 0 }
+  // }
 })
